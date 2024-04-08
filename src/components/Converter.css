@@ -73,9 +73,15 @@
   margin: 10px 0;
 }
 
+.convert-button{
+  background-color: #2ecc71;
+}
+.cash-code {
+  background-color: #2e75cc;
+}
+
 .convert-button,
 .cash-code {
-  background-color: #2ecc71;
   color: white;
   border: none;
   cursor: pointer;
@@ -85,7 +91,7 @@
 
 .convert-button:hover,
 .cash-code:hover {
-  background-color: #2766ae;
+  background-color: #27ae60;
 }
 
 @media (max-width: 600px) {
