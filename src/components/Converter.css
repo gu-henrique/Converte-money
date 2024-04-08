@@ -76,6 +76,7 @@
 .convert-button{
   background-color: #2ecc71;
 }
+
 .cash-code {
   background-color: #2e75cc;
 }
@@ -89,9 +90,12 @@
   margin-top: 20px; /* Adicione margem superior para espaçamento */
 }
 
-.convert-button:hover,
-.cash-code:hover {
+.convert-button:hover {
   background-color: #27ae60;
+}
+
+.cash-code:hover {
+  background-color: #2788ae;
 }
 
 @media (max-width: 600px) {
