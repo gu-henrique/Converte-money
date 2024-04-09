@@ -70,10 +70,6 @@ function Converter({
       </div>
       <button onClick={convertCurrency} className="convert-button">Converter</button>
       <button onClick={redirectToCurrencyCodesPage} className='cash-code'>Ver Códigos das Moedas</button>
-      {/*Adsense*/}
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6031594308004854"
-        crossorigin="anonymous">
-      </script>
     </div>
   );
 }
