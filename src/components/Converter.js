@@ -70,9 +70,35 @@ function Converter({
       </div>
       <button onClick={convertCurrency} className="convert-button">Converter</button>
       <button onClick={redirectToCurrencyCodesPage} className='cash-code'>Ver Códigos das Moedas</button>
+      
       {/*Adsense*/}
+      {/* quadrado */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6031594308004854"
+      crossorigin="anonymous"></script>
+      {/* <!-- teste2 --> */}
+      <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-6031594308004854"
+          data-ad-slot="6069754091"
+          data-adtest="on"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+
+      {/* horizontal */}
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6031594308004854"
-        crossorigin="anonymous">
+     crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-6031594308004854"
+          data-ad-slot="1008999107"
+          data-adtest="on"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
     </div>
   );
