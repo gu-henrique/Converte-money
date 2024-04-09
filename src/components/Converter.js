@@ -80,7 +80,6 @@ function Converter({
           style="display:block"
           data-ad-client="ca-pub-6031594308004854"
           data-ad-slot="6069754091"
-          data-adtest="on"
           data-ad-format="auto"
           data-full-width-responsive="true"></ins>
       <script>
@@ -94,7 +93,6 @@ function Converter({
           style="display:block"
           data-ad-client="ca-pub-6031594308004854"
           data-ad-slot="1008999107"
-          data-adtest="on"
           data-ad-format="auto"
           data-full-width-responsive="true"></ins>
       <script>
